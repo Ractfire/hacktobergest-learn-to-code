@@ -9,15 +9,7 @@
 <img width="100%" alt="Hacktoberfest" src="https://user-images.githubusercontent.com/43699825/91657791-88b00680-eae1-11ea-8250-21d42b94af8d.png">
 
 
-## How to make your first pull request?
 
-### Step#0: 🌟 Star this repo 🙏
-<img width="100%" alt="Star this repo for hacktoberfest" src="https://user-images.githubusercontent.com/43699825/91659079-0298bd80-eaeb-11ea-9e24-86a2468c4a1f.png">
-
-### Step#1: [Fork](https://github.com/OpenSourceTogether/Hacktoberfest-2020/fork) and clone the repository
-### Step#2: Create a new branch: `git checkout -b new-user`
-### Step#3: Create a new file in `contributors` folder and name the file as `YOUR-GITHUB-USERNAME.json`. Do not forget to include the `.json` as file extension.
-### Step#4: Add your details to `YOUR-GITHUB-USERNAME.json` file in the below format:
 ```
 {
     "github-username": "YOUR-GITHUB-USERNAME",
@@ -90,10 +82,4 @@ So we highly recommend you to contribute in a meaningful way to other Hacktoberf
 That said, only high-quality contributions and pull requests that add value to Open Source projects are part of the the [core values](https://hacktoberfest.digitalocean.com/details) of Hacktoberfest, so repositories like this one and others which allow users to quickly gain a PR toward completing the challenge might be excluded from the Hacktoberfest.
 <br>
 So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
-
-## 🤩 Awesome contributors:
-<a href="https://github.com/OpenSourceTogether/Hacktoberfest-2020/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=OpenSourceTogether/Hacktoberfest-2020" />
-</a>
-
 Generated using [contributors-img](https://contributors-img.web.app).
